@@ -2,8 +2,8 @@
 
 namespace Demo
 {
-    internal class Program
-    {
+    //internal class Program
+    //{
         //static int sum(int x, int y)
         //{
         //    return x - y;
